@@ -1,2 +1,2 @@
 # computational-physics-in-WHU
-exercise
+觉得有用，点个star
